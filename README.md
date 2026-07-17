@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋I'm a Computer Engineering student pursuing MBA alongside and passionate about, tech. and photography
 
 <!--
 **neevg09/neevg09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
